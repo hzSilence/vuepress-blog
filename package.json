@@ -1,0 +1,20 @@
+{
+  "name": "vuepress-blog",
+  "version": "0.0.1",
+  "description": "hzSilence's blog",
+  "main": "index.js",
+  "authors": {
+    "name": "hzSilence",
+    "email": "15289381762@163.com"
+  },
+  "repository": "/vuepress-blog",
+  "scripts": {
+    "dev": "vuepress dev blog",
+    "build": "vuepress build blog"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.0.0",
+    "@vuepress/theme-blog": "^1.0.0"
+  }
+}
