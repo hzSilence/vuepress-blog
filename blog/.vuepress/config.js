@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'VuePress Blog Example',
-  description: 'This is a blog example built by VuePress',
+  title: 'hzSilence\'s blog',
+  description: '个人学习配置网站',
   theme: '@vuepress/theme-blog', // OR shortcut: @vuepress/blog
   base:"/vuepress-blog/",
   themeConfig: {
